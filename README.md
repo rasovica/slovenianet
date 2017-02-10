@@ -1,0 +1,2 @@
+# slovenianet
+opendata-slovenianet
