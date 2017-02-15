@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- masscan v1.0 scan -->
+<?xml-stylesheet href="" type="text/xsl"?>
+<nmaprun scanner="masscan" start="1486723945" version="1.0-BETA"  xmloutputversion="1.03">
+<scaninfo type="syn" protocol="tcp" />
+<host endtime="1486723945"><address addr="37.18.224.218" addrtype="ipv4"/><ports><port protocol="tcp" portid="64479"><state state="open" reason="syn-ack" reason_ttl="40"/></port></ports></host>
+<host endtime="1486725499"><address addr="37.18.226.157" addrtype="ipv4"/><ports><port protocol="tcp" portid="8080"><state state="open" reason="syn-ack" reason_ttl="41"/></port></ports></host>
+<host endtime="1486725502"><address addr="37.18.226.157" addrtype="ipv4"/><ports><port protocol="tcp" portid="8080"><state state="open" reason="response" reason_ttl="41" /><service name="http" banner="HTTP/1.1 401 Unauthorized\x0d\x0aContent-type: text/html\x0d\x0aWWW-Authenticate: Basic realm=\x22Technicolor\x22\x0d\x0aConnection: close\x0d\x0aPragma: no-cache\x0d\x0a\x0d"></service></port></ports></host>
+<host endtime="1486725502"><address addr="37.18.226.157" addrtype="ipv4"/><ports><port protocol="tcp" portid="8080"><state state="open" reason="response" reason_ttl="41" /><service name="title" banner="HTTP 401 - Unauthorized"></service></port></ports></host>
+<runstats>
+<finished time="1486726162" timestr="2017-02-10 11:29:22" elapsed="2420" />
+<hosts up="2" down="0" total="2" />
+</runstats>
+</nmaprun>

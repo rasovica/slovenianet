@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!-- masscan v1.0 scan -->
+<?xml-stylesheet href="" type="text/xsl"?>
+<nmaprun scanner="masscan" start="1486874798" version="1.0-BETA"  xmloutputversion="1.03">
+<scaninfo type="syn" protocol="tcp" />
+<host endtime="1486874798"><address addr="77.94.136.95" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486874798"><address addr="77.94.136.105" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486875035"><address addr="77.94.140.199" addrtype="ipv4"/><ports><port protocol="tcp" portid="22"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486875037"><address addr="77.94.133.249" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486875275"><address addr="77.94.140.84" addrtype="ipv4"/><ports><port protocol="tcp" portid="4440"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486876238"><address addr="77.94.132.206" addrtype="ipv4"/><ports><port protocol="tcp" portid="8081"><state state="open" reason="syn-ack" reason_ttl="107"/></port></ports></host>
+<host endtime="1486876238"><address addr="77.94.133.11" addrtype="ipv4"/><ports><port protocol="tcp" portid="20070"><state state="open" reason="syn-ack" reason_ttl="107"/></port></ports></host>
+<host endtime="1486876238"><address addr="77.94.130.242" addrtype="ipv4"/><ports><port protocol="tcp" portid="49184"><state state="open" reason="syn-ack" reason_ttl="107"/></port></ports></host>
+<host endtime="1486876238"><address addr="77.94.134.129" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486876478"><address addr="77.94.133.224" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877075"><address addr="77.94.144.47" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877078"><address addr="77.94.137.4" addrtype="ipv4"/><ports><port protocol="tcp" portid="143"><state state="open" reason="syn-ack" reason_ttl="106"/></port></ports></host>
+<host endtime="1486877079"><address addr="77.94.137.4" addrtype="ipv4"/><ports><port protocol="tcp" portid="143"><state state="open" reason="response" reason_ttl="106" /><service name="imap" banner="* OK mail.salonit.si IMAP4rev1 MDaemon 16.0.1 ready\x0a"></service></port></ports></host>
+<host endtime="1486877316"><address addr="77.94.140.22" addrtype="ipv4"/><ports><port protocol="tcp" portid="4440"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486877317"><address addr="77.94.150.155" addrtype="ipv4"/><ports><port protocol="tcp" portid="993"><state state="open" reason="syn-ack" reason_ttl="108"/></port></ports></host>
+<host endtime="1486877318"><address addr="77.94.139.201" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877435"><address addr="77.94.137.40" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877437"><address addr="77.94.136.41" addrtype="ipv4"/><ports><port protocol="tcp" portid="179"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877797"><address addr="77.94.138.24" addrtype="ipv4"/><ports><port protocol="tcp" portid="179"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877798"><address addr="77.94.130.131" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877798"><address addr="77.94.137.160" addrtype="ipv4"/><ports><port protocol="tcp" portid="179"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877800"><address addr="77.94.144.39" addrtype="ipv4"/><ports><port protocol="tcp" portid="179"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486877917"><address addr="77.94.140.249" addrtype="ipv4"/><ports><port protocol="tcp" portid="8729"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486878037"><address addr="77.94.140.196" addrtype="ipv4"/><ports><port protocol="tcp" portid="2000"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486878038"><address addr="77.94.130.114" addrtype="ipv4"/><ports><port protocol="tcp" portid="587"><state state="open" reason="syn-ack" reason_ttl="108"/></port></ports></host>
+<host endtime="1486878276"><address addr="77.94.138.55" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486878278"><address addr="77.94.138.71" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486878396"><address addr="77.94.140.236" addrtype="ipv4"/><ports><port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486878519"><address addr="77.94.138.67" addrtype="ipv4"/><ports><port protocol="tcp" portid="143"><state state="open" reason="syn-ack" reason_ttl="107"/></port></ports></host>
+<host endtime="1486878636"><address addr="77.94.132.117" addrtype="ipv4"/><ports><port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="107"/></port></ports></host>
+<host endtime="1486878756"><address addr="77.94.140.233" addrtype="ipv4"/><ports><port protocol="tcp" portid="8729"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486878756"><address addr="77.94.140.52" addrtype="ipv4"/><ports><port protocol="tcp" portid="6003"><state state="open" reason="syn-ack" reason_ttl="41"/></port></ports></host>
+<host endtime="1486878757"><address addr="77.94.138.67" addrtype="ipv4"/><ports><port protocol="tcp" portid="34599"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486878877"><address addr="77.94.133.10" addrtype="ipv4"/><ports><port protocol="tcp" portid="20074"><state state="open" reason="syn-ack" reason_ttl="107"/></port></ports></host>
+<host endtime="1486878877"><address addr="77.94.140.253" addrtype="ipv4"/><ports><port protocol="tcp" portid="22"><state state="open" reason="syn-ack" reason_ttl="43"/></port></ports></host>
+<host endtime="1486878878"><address addr="77.94.130.92" addrtype="ipv4"/><ports><port protocol="tcp" portid="110"><state state="open" reason="syn-ack" reason_ttl="107"/></port></ports></host>
+<host endtime="1486878998"><address addr="77.94.139.144" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486878999"><address addr="77.94.137.144" addrtype="ipv4"/><ports><port protocol="tcp" portid="179"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486879238"><address addr="77.94.138.168" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<host endtime="1486879244"><address addr="77.94.138.168" addrtype="ipv4"/><ports><port protocol="tcp" portid="6068"><state state="open" reason="syn-ack" reason_ttl="45"/></port></ports></host>
+<runstats>
+<finished time="1486879373" timestr="2017-02-12 06:02:53" elapsed="4768" />
+<hosts up="39" down="0" total="39" />
+</runstats>
+</nmaprun>
